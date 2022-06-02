@@ -4,7 +4,7 @@
 
 - 💻 I’m working on a personal project about online menus and learning flutter!
 - 📚 I’m currently studying System Analysis and Development!
-- 🎧 Fun fact: I love making eletronic music on my free time! 
+- 🎧 Fun fact: I love making electronic music on my free time! 
 
 <div style="display: inline_block"><br>
 <img align="center" alt="rm-react" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
