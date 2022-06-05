@@ -2,8 +2,8 @@
 
 <h4>I'm Cassio R. Machado, nice to meet you!</h4>
 
-- 💻 I’m working on becoming a great mobile developer and currently learning flutter!
-- 📚 I’m studying System Analysis and Development at Uninter!
+- 💻 I’m working on becoming a great mobile developer and currently learning flutter.
+- 📚 I’m studying System Analysis and Development at Uninter.
 - 🎧 Fun fact: I love making electronic music on my free time! 
 
 <div style="display: inline_block"><br>
