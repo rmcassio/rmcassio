@@ -8,8 +8,8 @@
 
 <div style="display: inline_block"><br>
   <img align="center" alt="rm-react" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
-   <img align="center" alt="rm-react" height="30" width="40" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/android/android-plain-wordmark.svg" />
-   <img align="center" alt="rm-react" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" />
-    <img align="center" alt="rm-react" height="30" width="40" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/vscode/vscode-original.svg" />  
+   <img align="center" alt="rm-react" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" /> 
+  <img align="center" alt="rm-react" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/sveltekit-original.svg" /> 
+  <img align="center" alt="rm-react" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/typescript-original.svg" /> 
 </div>
 
