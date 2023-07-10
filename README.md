@@ -9,7 +9,7 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="rm-react" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
    <img align="center" alt="rm-react" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" /> 
-  <img align="center" alt="rm-react" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/sveltekit-original.svg" /> 
-  <img align="center" alt="rm-react" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/typescript-original.svg" /> 
+  <img align="center" alt="rm-react" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/sveltekit-original.svg" /> 
+  <img align="center" alt="rm-react" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" /> 
 </div>
 
