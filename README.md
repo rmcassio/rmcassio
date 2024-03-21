@@ -2,7 +2,7 @@
 
 <h4>I'm Cassio R. Machado, nice to meet you!</h4>
 
-- 💻 I’m working on becoming a great developer and I'm currently working with Flutter and learning React with Typescript.
+- 💻 I’m working on becoming a great developer and I'm currently working with Flutter and learning React and Next with Typescript.
 - 📚 I’m studying System Analysis and Development at Uninter.
 - 🎧 Fun fact: I love making electronic music on my free time! 
 
